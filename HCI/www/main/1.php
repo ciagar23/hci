@@ -1,0 +1,50 @@
+<font color=red size='+2'>Your Health</font> <br><br><br>
+ 
+ <p>
+ 
+You would think that a vaccine that could prevent cancer would be an easy sell, but that's hasn't proven to be true so far with the vaccine to prevent cervical cancer.
+</p><br>
+<p>
+
+Just 33 percent of girls and less than 7 percent of boys in the U.S. have gotten all three recommended doses of the vaccine to protect against the human papillomavirus, which causes cervical and other cancers. Compare that to the tiny African nation of Rwanda, where more than 90 percent of sixth-grade girls were vaccinated in 2011, or Australia, where 73 percent of 12- and 13-year-old girls have gotten all three vaccines.
+</p><br>
+<p>
+"This is a vaccine that protects against cancer; what could be better than that?" asks Shannon Stokley, an epidemiologist with the Centers for Disease Control and Prevention. She and other public health officials are trying to figure out the best ways to persuade American teenagers and preteens to get the HPV vaccine.
+</p><br>
+<p>
+The argument for it is simple: HPV is the most common sexually transmitted infection. Most HPV viruses are harmless. But a few types can cause cervical, anal and penile cancer, as well as genital warts.
+</p><br>
+<p>
+"We don't know who is going to develop cancer or who will clear infection," Stokley says, "which is why it's so critical to protect adolescents with the vaccine long before they're ever exposed to the virus."
+</p><br>
+<p>
+The federal government recommends that the first of three HPV vaccine doses be given to children when they turn 11 or 12. A second dose is given about one month later, with a third and final dose within six months. HPV vaccine has been recommended for routine vaccination for girls since 2006 and for boys since 2011.
+</p><br>
+<p>
+A recent CDC study found HPV prevalence was reduced by 56 percent among teenage girls between the ages of 14 and 19 who were vaccinated, suggesting the vaccine is highly protective. But as many as two thirds of 11- and 12-year-old girls don't get the HPV vaccine when they are at the doctor getting other vaccines.
+</p><br>
+<p>
+About one quarter of parents say they don't plan on getting their daughters vaccinated in the next year, according to a survey published in July 2013 by the CDC. The most common reasons parents gave were thinking that the vaccine wasn't necessary (19.1 percent); the doctor didn't recommend it (14.2 percent); and safety concerns (13.1 percent).
+</p><br>
+<p>
+Studies to date have shown no significant safety problems.
+</p><br>
+<p>
+Then there are logistical issues. In countries like Australia and Rwanda with high rates of coverage, children are vaccinated at school. In the U.S., parents have to take children to a doctor or clinic three times to get all three shots.
+</p><br>
+<p>
+Younger kids routinely go to a doctor for well child visits, but teenagers typically don't see a doctor regularly. And Stokley says "doctors may feel uncomfortable" talking about a vaccine that protects against sexually transmitted disease with teens or with parents of kids as young as 11.
+</p><br>
+<p>
+The fact that one-fifth of parents think the vaccine isn't necessary shows that doctors have to be more vigilant in recommending the HPV vaccine, says Dr. Jeffrey Duchin. He is chief of the Communicable Disease Epidemiology & Immunization Section at the Seattle & King County Department of Public Health. "Our research showed that parents did not have a lot of knowledge about how widespread HPV was, how readily it was transmitted, how easy it is to acquire and also about the severity of illness it can cause," he says.
+</p><br>
+<p>
+People often mistakenly think the vaccine is targeted at teens who are sexually active, which Duchin says is simply not true. "Once you become sexually active, you can acquire HPV infection quite readily. The entire strategy is based on protecting kids before they get infected, just like it is with all our other vaccine preventable diseases."
+</p><br>
+<p>
+Earlier in February, the President's Cancer Panel said that more need to be done to get the public educated about HPV and cancer. The panel also called for more efforts by health care providers to recommend and give vaccines, and to make sure the vaccines are available where teenagers get their health care.
+</p><br>
+<p>
+Convenience is key, Duchin says. And that may include offering the HPV vaccine in school-based health clinics, or at pharmacies, similar to the flu vaccine.
+
+ </p>
